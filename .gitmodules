@@ -1,0 +1,3 @@
+[submodule "python-lua"]
+	path = python-lua
+	url = https://github.com/dmitrii-eremin/python-lua.git
